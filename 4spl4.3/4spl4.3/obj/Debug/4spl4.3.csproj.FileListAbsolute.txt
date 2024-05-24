@@ -1,0 +1,7 @@
+C:\Users\Марк\source\repos\4spl4.3\4spl4.3\bin\Debug\4spl4.3.exe.config
+C:\Users\Марк\source\repos\4spl4.3\4spl4.3\bin\Debug\4spl4.3.exe
+C:\Users\Марк\source\repos\4spl4.3\4spl4.3\bin\Debug\4spl4.3.pdb
+C:\Users\Марк\source\repos\4spl4.3\4spl4.3\obj\Debug\4spl4.3.csprojAssemblyReference.cache
+C:\Users\Марк\source\repos\4spl4.3\4spl4.3\obj\Debug\4spl4.3.csproj.CoreCompileInputs.cache
+C:\Users\Марк\source\repos\4spl4.3\4spl4.3\obj\Debug\4spl4.3.exe
+C:\Users\Марк\source\repos\4spl4.3\4spl4.3\obj\Debug\4spl4.3.pdb
