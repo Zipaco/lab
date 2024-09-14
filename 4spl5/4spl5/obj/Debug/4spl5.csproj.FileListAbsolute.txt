@@ -1,0 +1,10 @@
+C:\Users\Марк\source\repos\4spl5\4spl5\bin\Debug\4spl5.exe.config
+C:\Users\Марк\source\repos\4spl5\4spl5\bin\Debug\4spl5.exe
+C:\Users\Марк\source\repos\4spl5\4spl5\bin\Debug\4spl5.pdb
+C:\Users\Марк\source\repos\4spl5\4spl5\obj\Debug\4spl5.csprojAssemblyReference.cache
+C:\Users\Марк\source\repos\4spl5\4spl5\obj\Debug\_4spl5.Form1.resources
+C:\Users\Марк\source\repos\4spl5\4spl5\obj\Debug\_4spl5.Properties.Resources.resources
+C:\Users\Марк\source\repos\4spl5\4spl5\obj\Debug\4spl5.csproj.GenerateResource.cache
+C:\Users\Марк\source\repos\4spl5\4spl5\obj\Debug\4spl5.csproj.CoreCompileInputs.cache
+C:\Users\Марк\source\repos\4spl5\4spl5\obj\Debug\4spl5.exe
+C:\Users\Марк\source\repos\4spl5\4spl5\obj\Debug\4spl5.pdb
